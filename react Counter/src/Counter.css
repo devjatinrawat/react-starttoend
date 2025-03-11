@@ -1,0 +1,11 @@
+
+
+button {
+    all: unset; /* Removes default styles */
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+  }
